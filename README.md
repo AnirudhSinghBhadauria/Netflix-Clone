@@ -23,11 +23,11 @@ You might want to take a look at the gallery of this Netflix landing page clone.
 </p>
 
 <p float="left" align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/b08a88168836349.644172c20cc16.png">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/276c8d168836349.644172c20e19c.png">
 </p>
 
 <p float="left" align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/276c8d168836349.644172c20e19c.png">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/b08a88168836349.644172c20cc16.png">
 </p>
 
 ## Conclusion
